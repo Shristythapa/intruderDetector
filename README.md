@@ -9,3 +9,6 @@ Download file - used to download know faces uploaded through flutter app to fire
 Encode File - used to encode know faces which is used to then used to feed into the face_recognition system 
 
 Notification File - used to send notification to flutter app through firebase when the camera detects unknown faces 
+
+https://github.com/user-attachments/assets/8bdda13a-8313-4f9b-89ce-a15e09256c64
+
