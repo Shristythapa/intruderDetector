@@ -1,6 +1,6 @@
-<h1> The project aims to implement facerecognition system to imporve home safety</h1>
+<h1> The project aims to implement facerecognition system to improve home security</h1>
 
-note: code in this repository include my parts of a group project i.e. intruder dector system
+note: code in this repository include my parts of a group project i.e. [intruder dector system](https://github.com/prasnaaryal/intruderdetection)
 
 <h4> The overall project is implemeted through flutter app firebase raspberry pi and other iot systems</h4>
 
